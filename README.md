@@ -1,0 +1,1 @@
+An old hobby project that remains unfinished. The end goal was to intergrate this with Quantum Mechanical Keyboard firmware to handle flashing a custom keyboard layout. Another idea was to build on this to make an intuitive process for modeling a keyboard in 3d. 
