@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/space.png</file>
+        <file>img/keyboard.png</file>
+        <file>img/space-split.png</file>
+        <file>img/close.png</file>
+        <file>img/maximize.png</file>
+        <file>img/minimize.png</file>
+        <file>img/space1440x810.png</file>
+    </qresource>
+</RCC>
